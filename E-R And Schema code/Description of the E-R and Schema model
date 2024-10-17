@@ -1,0 +1,14 @@
+Database Modeling and Entity-Relationship (E-R) Diagrams
+As part of my coursework in Enterprise Analytics, I completed an assignment focused on database schema design and interpretation. This involved two key tasks:
+
+Translation of an E-R Diagram to a Database Schema:
+
+Using MySQL Workbench, I converted a complex E-R diagram, including a ternary "Grant" relationship (many-to-many-to-many), into a relational database schema. This required creating an intersection table with three foreign keys to properly handle the ternary relationship.
+I exported the database schema as a PNG file, which demonstrates my ability to use database modeling tools effectively.
+Interpretation of a Database Schema:
+
+I analyzed a provided database schema and reverse-engineered it into its underlying E-R diagram. This process required identifying relationships, entities, and cardinalities while omitting attributes for simplicity.
+This assignment showcases my skills in:
+
+Database Design and Modeling using MySQL Workbench.
+Entity-Relationship Diagrams (ERDs) and understanding complex database relationships.
